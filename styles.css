@@ -40,3 +40,18 @@ nav h1{
     color: #014728;
     position: relative;
 }
+
+nav h1::before{
+    content: '';
+    width:20px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    left: -40px;
+    transform: translateY(-50%);
+    background:linear-gradient(90deg,rgb(28, 9, 114),rgb(214, 214, 255));
+}
+
+nav ul{
+    display: flex;
+}
