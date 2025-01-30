@@ -10,3 +10,16 @@
     height: 100vh;
     background:linear-gradient(90deg,rgb(8,8,67),rgb(5,1,18),rgb(8,8,67));
 }
+
+.parent{
+    width: 80%;
+    height: 90%;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #230845;
+    box-shadow: 5px 5px 20px black;
+    color: #ffffff;
+    overflow: hidden;
+}
