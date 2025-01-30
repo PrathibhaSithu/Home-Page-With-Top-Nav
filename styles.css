@@ -55,3 +55,7 @@ nav h1::before{
 nav ul{
     display: flex;
 }
+
+nav ul li{
+    list-style-type: none;
+}
