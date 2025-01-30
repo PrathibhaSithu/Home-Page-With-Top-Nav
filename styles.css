@@ -32,3 +32,11 @@
     height: 15%;
     /* background-color: plum; */
 }
+
+nav h1{
+    font-size: 35px;
+    font-weight: 600;
+    margin-left: 40px;
+    color: #014728;
+    position: relative;
+}
