@@ -13,4 +13,6 @@ This project demonstrates my skills in frontend development, particularly in cre
 
 <br/>
 
+## ⭐ If you like this project, don't forget to star the repository! ⭐
+
 <img src="./assets/ss.png" alt="Snapshot">
